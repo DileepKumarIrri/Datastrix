@@ -1,0 +1,6 @@
+{
+  "name": "AI Document Assistant",
+  "description": "An intelligent assistant to chat with your documents, manage files, and get insights powered by AI. This application provides a seamless interface for document interaction and user management.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

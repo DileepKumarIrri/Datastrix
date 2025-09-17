@@ -1,0 +1,22 @@
+
+# To add
+    # 2. auto generate memories:
+    #     Implement an automated memory system that processes user chat history to extract both session-level and topic-level memories. The system should generate:
+    #         Session Memories: At the end of each chat session (or after every 10 user messages), use an LLM to summarize key facts, goals, preferences, or entities mentioned by the user in that session.
+    #         Topic Memories: Every few sessions (e.g. every 5 sessions), group existing session memories and summarize them into higher-level themes that represent recurring user interests or domains.
+    # 3. better collapse/expand
+    # 4. Make the left section smaller
+    # 8. Multi Model Option
+    3. swt
+
+
+
+# Core Fixes:
+    # 2. big query streaming table
+    # 3. Cloudrun
+
+### Setup container
+
+## Others
+    # 4. Add a 404 Page and route any unauthorised or suspicious activity to it
+    # 9. 14 days free trial for new users with 50 messages per day limit

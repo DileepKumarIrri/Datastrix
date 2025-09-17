@@ -1,0 +1,12 @@
+Flask
+Flask-Cors
+qdrant-client
+langchain
+langchain-core
+langchain-ollama
+tiktoken
+pdfplumber
+openai
+python-dotenv
+uuid
+langchain-openai
